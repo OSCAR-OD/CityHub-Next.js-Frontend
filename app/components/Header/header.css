@@ -1,0 +1,27 @@
+/* Show the Login/Register button only in mobile responsive mode */
+@media screen and (min-width: 768px) {
+    
+    #lgbtn{
+        display: none;
+    }
+  }
+  
+  /* Show the Login/Register button only in mobile mode when the navbar is open */
+  @media screen and (max-width: 767px) {
+    #lgbtn{
+        /* display: block; */
+        display: flex;
+        align-items: center;
+        /* gap: 8px; */
+        background-color: var(--ultramarine-blue);
+        color: var(--white);
+        min-height: 50px;
+        padding-inline: 55px;
+        font-weight: var(--fw-700);
+        transition: var(--transition-1);
+    }
+  }
+
+  /* #lgbtn{
+    display: none;
+  } */
