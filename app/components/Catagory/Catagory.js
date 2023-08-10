@@ -38,7 +38,6 @@ const CategorySection = () => {
                   <h3 className="h3 card-title">
                     <a href="#">Home Cleaning</a>
                   </h3>
-
                   <span className="card-meta">
                   Home Cleaners will be sent to
                  your home at your given address. </span>
@@ -57,8 +56,7 @@ const CategorySection = () => {
                   <h3 className="h3 card-title">
                     <a href="#">Home Shifting</a>
                   </h3>
-
-                  <span className="card-meta">
+                   <span className="card-meta">
                  General Humans will be sent to
                  your home at your given address 
                  for moving your furnitures from 

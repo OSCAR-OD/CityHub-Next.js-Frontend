@@ -108,7 +108,7 @@ const Header = () => {
               Contact</a>
           </li>
           <li className="navbar-item" >
-          <a href="#" id="lgbtn" className="navbar-link" data-nav-toggler>
+          <a href="https://cityhub.onrender.com/" target="_blank" id="lgbtn" className="navbar-link" data-nav-toggler>
         {/* <span className="span">Login / Register</span>
          */}
           Login / Register
@@ -124,7 +124,7 @@ const Header = () => {
           <span className="span">Login / Register</span>
         </a> */}
         {/* ////////////////// */}
-        <a href="#" className={`header-action-btn login-btn ${isNavbarOpen ? 'show-mobile' : ''}`}>
+        <a href="https://cityhub.onrender.com/" target="_blank" className={`header-action-btn login-btn ${isNavbarOpen ? 'show-mobile' : ''}`}>
         <span className="span">Login / Register</span>
         </a>
 

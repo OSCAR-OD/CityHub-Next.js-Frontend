@@ -51,9 +51,9 @@ const Hero = () => {
           <p className="section-subtitle">Live Better With Us</p>
           <h2 className="h1 hero-title">Get All Services from One Place </h2>
           <p className="hero-text">
-            Sed eu volutpat arcu, a tincidunt nulla quam, feugiat sit amet ipsum a, dapibus porta velit.
-          </p>
-          <a href="#" className="btn btn-primary">
+          CityHub a One stop Solution to get all the services in your city.
+           </p>
+          <a href="https://cityhub.onrender.com/" target="_blank" className="btn btn-primary">
             <span className="span">Get Started Today</span>
             <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
           </a>

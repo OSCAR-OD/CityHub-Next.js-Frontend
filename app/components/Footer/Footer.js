@@ -139,7 +139,7 @@ const Footer = () => {
 
       <div className="footer-bottom">
         <p className="copyright">
-          Copyright 2023 CityHub. All Rights Reserved by <a href="#" className="copyright-link">Oscar Deb</a>
+          Copyright 2023 CityHub. All Rights Reserved by <a href="https://oscardeb.vercel.app/" target="_blank" className="copyright-link">Oscar Deb</a>
         </p>
       </div>
 
