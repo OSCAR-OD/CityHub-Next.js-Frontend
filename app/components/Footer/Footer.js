@@ -130,7 +130,7 @@ const Footer = () => {
           </li>
 
           <li className="footer-item">
-           <a href="oscardeb2000@gmail.com" className="footer-link">oscardeb2000@gmail.com</a>
+           <a href="oscardeb2000@gmail.com" target="_blank" className="footer-link">oscardeb2000@gmail.com</a>
           </li>
 
         </ul>
